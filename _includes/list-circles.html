@@ -1,0 +1,35 @@
+<div class="list-circles">
+  {% for item in include.items %}
+    <div class="list-circles-item">
+      {% if item.img %}
+        {% if item.url %}
+          <a href="{{ item.url }}"><img src="{{ item.img }}" class="item-img" /></a>
+        {% else %}
+          <img src="{{ item.img }}" class="item-img" />
+        {% endif %}
+      {% endif %}
+      {% if item.name %}
+        <h4 class="item-name">{{ item.name }}</h4>
+      {% endif %} 
+      {% if item.title %}
+	    {% if item.title_link %}
+          <a href="{{ item.title_link }}"><div class="item-desc">{{ item.title }}</div></a>
+		{% else %}
+		  <div class="item-desc">{{ item.title }}</div>
+		{% endif %}
+      {% endif %}
+      <div class="item-links">
+        {% if item.url %}
+          <a class="item-link" href="{{ item.url }}" title="Website">
+            <span class="fa fa-home"></span>
+          </a>
+        {% endif %}
+        {% if item.email %}
+          <a class="item-link" href="mailto:{{ item.email }}" title="Email">
+            <span class="fa fa-envelope"></span>
+          </a>
+        {% endif %}
+      </div>
+    </div>
+  {% endfor %}
+</div>

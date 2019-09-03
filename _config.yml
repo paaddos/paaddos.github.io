@@ -1,0 +1,88 @@
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+url: "http://paaddos.nl"
+baseurl: ""
+
+destination: static
+
+title: PAADDoS
+description: Planning for Anycast as Anti-DDoS
+
+# How many news items to show in the Latest News section on the landing page
+num_latest_news_to_show: 3
+
+# Twitter account to show on the landing page
+#twitter: vaccineimpact
+
+# List of links in the navigation bar
+navbar-links:
+ News: "news"
+ Publications: "publications"
+ Resources: "resources"
+ About us:
+ # - About us: "aboutus"
+  - People: "secretariat"
+  - Contact us: "contact"
+#  Modellers: "modellers"
+#  Models:
+#    - Hepatitis B: "models/hep-b"
+#    - Hib, rotavirus, pneumo: "models/hib"
+#    - Human papilloma virus (HPV): "models/hpv"
+#    - Japanese encephalitis: "models/je"
+#    - Meningitis A: "models/men-a"
+#    - Measles: "models/measles"
+#    - Rubella: "models/rubella"
+#    - Yellow fever: "models/yellow-fever"
+#  Diseases:
+#    - Hepatitis B: "diseases/hep-b"
+#    - Hib: "diseases/hib"   
+#    - Human papilloma virus (HPV): "diseases/hpv"  
+#    - Japanese encephalitis: "diseases/je"  
+#    - Meningitis A: "diseases/men-a"
+#    - Measles: "diseases/measles"
+#    - Pneumococcal disease: "diseases/pneumo" 
+#    - Rotavirus: "diseases/rotavirus"
+#    - Rubella: "diseases/rubella"
+#    - Yellow fever: "diseases/yellow-fever"
+#  News: "news"
+#
+#  Resources:
+#    - Publications: "publications"
+#    - Reports: "reports"
+#    - Other resources: "resources"
+
+google_analytics: "UA-100500622-1"
+
+# -------------------- Don't need to worry about these options from here down ----------------------
+
+timezone: "Europe/Amsterdam"
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 5
+paginate_path: "/news/page:num/"
+
+kramdown:
+  input: GFM
+
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "page"
+
+# Exclude these files from production site
+exclude:
+  - LICENSE
+  - README.md
+
+gems:
+  - jekyll-paginate

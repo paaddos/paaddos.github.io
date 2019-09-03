@@ -1,0 +1,23 @@
+- name: Anycast and DDoS
+  id: paaddos
+  pubs:
+
+    - author: 'Giovane C. M. Moura, John Heidemann, Moritz Müller, Ricardo de O. Schmidt, and Marco Davids'
+      year:   2019
+      title:  'Cache Me If You Can: Effects of DNS Time-to-Live (extended)' 
+      info:   'Technical Report ISI-TR-734'
+      url:    'https://ant.isi.edu/bib/Moura19a.html'
+  
+    - author: 'Giovane C. M. Moura, John Heidemann, Moritz Müller, Ricardo de O. Schmidt, and Marco Davids'
+      year:   2018
+      title:  'When the Dike Breaks: Dissecting DNS Defenses During DDoS' 
+      info:   'doi:10.1145/3278532.3278534'
+      url:    'https://dl.acm.org/citation.cfm?id=3278534' 
+
+    - author: 'de Vries W.B., Schmidt R..O., Pras A.'
+      year:   2016
+      title:  'Anycast and its potential for DDoS mitigation.'
+      info:   'doi:10.1007/978-3-319-39814-3_16'
+      url:    'https://link.springer.com/chapter/10.1007%2F978-3-319-39814-3_16'
+
+
