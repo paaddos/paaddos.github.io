@@ -86,3 +86,5 @@ exclude:
 
 gems:
   - jekyll-paginate
+
+theme: jekyll-theme-cayman
