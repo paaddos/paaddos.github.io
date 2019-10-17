@@ -9,7 +9,6 @@
   <div class="col-md-1"><img src="/img/logo/logo_SIDNLABS.svg"   /></div> 
   <div class="col-md-1"><img src="/img/logo/logo_DACS.svg" /></div>
   <div class="col-md-1"><img src="/img/logo/logo_UT_EN.svg" /></div>
-  <div class="scaling-svg-container" style="padding-bottom: 92% /* 100% * 55/60 */"> <svg class="scaling-svg" viewBox="0 0 60 55" > /img/logo/logo_UT_EN.svg </svg> </div>
 </div>
 </footer>
 
