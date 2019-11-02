@@ -16,4 +16,4 @@ The third NWO/NCSC/DHS project presented during the workshop was the PAADDoS pro
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">US meets NL experts in DDoS workshop to deepen and strengthen interactions to make the internet more safe. <a href="https://t.co/6pBB93wdkn">pic.twitter.com/6pBB93wdkn</a></p>&mdash; dcypher_nl (@dcypher_nl) <a href="https://twitter.com/dcypher_nl/status/1187387568972881920?ref_src=twsrc%5Etfw">October 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[!](2019-10-24-ddos-us-nl-john.jpeg)
+![](2019-10-24-ddos-us-nl-john.jpeg)
