@@ -1,6 +1,6 @@
 ---
 
-title: John Heidemann makes presentation during AntiDDoS Workshop
+title: John Heidemann presented PaaDDoS during Anti-DDoS US-NL Workshop
 
 ---
 

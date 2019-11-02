@@ -1,6 +1,6 @@
 ---
 
-title:  PAADDoS Poster presentantion during Concordia Opendoors
+title:  PAADDoS presented at Concordia Opendoors
 
 ---
 
