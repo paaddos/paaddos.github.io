@@ -5,7 +5,6 @@ title: New project “Plannning for Anycast as Anti-DDoS” (PAADDoS)
 ---
 
 
-## [New project “Plannning for Anycast as Anti-DDoS” (PAADDoS)](https://ant.isi.edu/blog/?p=1300)
 
 
 ### We are happy to announce a new project Plannning for Anycast as Anti-DDoS (PAADDoS).
@@ -20,4 +19,5 @@ PAADDoS is a joint effort of the [ANT Lab](https://ant.isi.edu) involving [USC/I
 
 PAADDoS is supported by the [DHS HSARPA Cyber Security Division](https://www.dhs.gov/science-and-technology/cybersecurity-programs) via contract number HSHQDC-17-R-B0004-TTA.02-0006-I, and by [NWO](https://www.nwo.nl).
 
+## [New project “Plannning for Anycast as Anti-DDoS” (PAADDoS)](https://ant.isi.edu/blog/?p=1300)
 
