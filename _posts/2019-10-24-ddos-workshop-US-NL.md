@@ -1,23 +1,15 @@
 ---
 
-title: New project “Plannning for Anycast as Anti-DDoS” (PAADDoS)
+title: John Heidemann makes presentation during 
 
 ---
 
 
-## [New project “Plannning for Anycast as Anti-DDoS” (PAADDoS)](https://ant.isi.edu/blog/?p=1300)
+## [Anti-DDoS Workshop on October 24th which is organized by NWO, the US Department of Homeland Security (DHS) and the University of Twente and hosted by dcypher](https://www.dcypher.nl/en/international-collaboration-against-ddos-attacks)
 
 
-### We are happy to announce a new project Plannning for Anycast as Anti-DDoS (PAADDoS).
+The third NWO/NCSC/DHS project presented during the workshop was the PAADDoS project by Aiko Pras from the University of Twente and John Heidemann from the University of Southern California. Their research focuses on so-called anycast systems as a defence mechanism. In an anycast network, multiple servers at multiple locations represent the same IP address. If a certain IP address is targeted by a DDoS attack, in an anycast network only those servers that are closest to the attacker will be bothered by it, and the service will remain accessible because the traffic is being rerouted through others servers. ‘We use a tool called Verfploeter to map out how information is currently routed over the internet,’ Heidemann said. ‘Remarkably enough, traffic still very often travel through places where it has no business of being. For example, it is quite a challenge to keep European internet traffic within Europe.’
 
-The PAADDoS project’s goal is to defend against large-scale DDoS attacks by making anycast-based capacity more effective than it is today.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">US meets NL experts in DDoS workshop to deepen and strengthen interactions to make the internet more safe. <a href="https://t.co/6pBB93wdkn">pic.twitter.com/6pBB93wdkn</a></p>&mdash; dcypher_nl (@dcypher_nl) <a href="https://twitter.com/dcypher_nl/status/1187387568972881920?ref_src=twsrc%5Etfw">October 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-We will work toward this goal by (1) developing tools to map anycast catchments and baseline load, (2) develop methods to plan changes and their effects on catchments, (3) develop tools to estimate attack load and assist anycast reconfiguration during an attack. and (4) evaluate and integration of these tools with traditional DoS defenses.
-
-We expect these innovations to improve service resilience in the face of DDoS attacks. Our tools will improve anycast agility during an attack, allowing capacity to be used effectively.
-
-PAADDoS is a joint effort of the [ANT Lab](https://ant.isi.edu) involving [USC/ISI](https://www.isi.edu) (PI: [John Heidemann](https://www.isi.edu/~johnh/)) and the [Design and Analysis of Communication Systems group](https://www.utwente.nl/en/eemcs/dacs/)  at the University of Twente (PI: [Aiko Pras](https://people.utwente.nl/a.pras)).
-
-PAADDoS is supported by the [DHS HSARPA Cyber Security Division](https://www.dhs.gov/science-and-technology/cybersecurity-programs) via contract number HSHQDC-17-R-B0004-TTA.02-0006-I, and by [NWO](https://www.nwo.nl).
-
-
+[!john](2019-10-24-ddos-us-nl-john.jpeg)
