@@ -14,3 +14,7 @@ The CONCORDIA project is part of a major European-wide effort to accelerate cybe
 Leandro Bertholdo during poster session at concordia 
 ![](/img/2019-10-17-concordia-opendoor-leandro.png)
 
+<img src="/img/2019-10-17-concordia-opendoor-leandro.png"
+alt="PaaDDoS Poster Presentation"
+style="float: left; margin-right: 10px;" />
+
