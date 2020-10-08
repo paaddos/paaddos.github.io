@@ -2,6 +2,12 @@
   id: paaddos
   pubs:
 
+    - author: 'Wouter B. de Vries,  Salman Aljammaz, and Roland van Rijswijk-Deij'
+      year:   2020
+      title:  'Global-Scale Anycast Network Management with Verfploeter' 
+      info:   'DOI: 10.1109/NOMS47738.2020.9110449'
+      url:    'https://ieeexplore.ieee.org/abstract/document/9110449'
+
     - author: 'Giovane C. M. Moura, John Heidemann, Moritz Müller, Ricardo de O. Schmidt, and Marco Davids'
       year:   2019
       title:  'Cache Me If You Can: Effects of DNS Time-to-Live (extended)' 
