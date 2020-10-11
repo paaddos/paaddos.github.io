@@ -20,6 +20,4 @@ PAADDoS is a joint effort of the [ANT Lab](https://ant.isi.edu/) involving [USC/
 
 ## Support
 
-PAADDoS is supported by the US DHS [DHS HSARPA Cyber Security Division](https://www.dhs.gov/science-and-technology/cyber-security-division) via contract number HSHQDC-17-R-B0004-TTA.02-0006-I in the US, and by Netherlands Organisation for scientific research[NWO](https://www.nwo.nl/actueel/nieuws/2018/11/nwo-kent-12-miljoen-euro-toe-aan-cybersecurity-onderzoek.html) via contract number 4019020199 in the Netherlands.  
-
-It is also supported by [CONCORDIA](https://www.concordia-h2020.eu), the Cybersecurity Competence Network supported by the European Union's [Horizon 2020 research and innovation programme](https://ec.europa.eu/programmes/horizon2020/en) under grant agreement No 830927.
+PAADDoS is supported by the US DHS [DHS HSARPA Cyber Security Division](https://www.dhs.gov/science-and-technology/cyber-security-division) via contract number HSHQDC-17-R-B0004-TTA.02-0006-I in the US,  by Netherlands Organisation for scientific research[NWO](https://www.nwo.nl/actueel/nieuws/2018/11/nwo-kent-12-miljoen-euro-toe-aan-cybersecurity-onderzoek.html) via contract number 4019020199 in the Netherlands, and by [CONCORDIA](https://www.concordia-h2020.eu), the Cybersecurity Competence Network supported by the European Union's [Horizon 2020 research and innovation programme](https://ec.europa.eu/programmes/horizon2020/en) under grant agreement No 830927.
