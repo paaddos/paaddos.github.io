@@ -2,6 +2,18 @@
   id: paaddos
   pubs:
 
+    - author: 'Leandro M Bertholdo, Joao M Ceron, Lisandro Z Granville, Giovane CM Moura, Cristian Hesselman, Roland van Rijswijk-Deij'
+      year:   2020
+      title:  'BGP Anycast Tuner: Intuitive Route Management for Anycast Services' 
+      info:   'DOI: 10.23919/CNSM50824.2020.9269102'
+      url:    'https://ieeexplore.ieee.org/document/9269102'
+
+    - author: 'Sommese, Raffaele, Leandro Bertholdo, Gautam Akiwate, Mattijs Jonker, Roland van Rijswijk-Deij, Alberto Dainotti, K. C. Claffy, and Anna Sperotto'
+      year:   2020
+      title:  'MAnycast2: Using Anycast to Measure Anycast' 
+      info:   'DOI: 10.1145/3419394.3423646'
+      url:    'https://dl.acm.org/doi/abs/10.1145/3419394.3423646'
+
     - author: 'Wouter B. de Vries,  Salman Aljammaz, and Roland van Rijswijk-Deij'
       year:   2020
       title:  'Global-Scale Anycast Network Management with Verfploeter' 
