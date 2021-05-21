@@ -1,6 +1,6 @@
 ---
 
-title:   Best paper for "Tangled: A Cooperative Anycast Testbed" 
+title: Best paper for "Tangled: A Cooperative Anycast Testbed" 
 
 ---
 
