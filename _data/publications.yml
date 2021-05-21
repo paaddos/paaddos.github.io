@@ -2,6 +2,12 @@
   id: paaddos
   pubs:
 
+    - author: 'Leandro M. Bertholdo, Joao M. Ceron, Wouter B. de Vries, Ricardo de Oliveira Schmidt, Lisandro Zambenedetti Granville, Roland van Rijswijk-Deij, Aiko Pras'
+      year:   2021
+      title:  'TANGLED: A Cooperative Anycast Testbed' 
+      info:   'DOI: '
+      url:    'https://research.utwente.nl/en/publications/tangled-a-cooperative-anycast-testbed'
+
     - author: 'Leandro M Bertholdo, Joao M Ceron, Lisandro Z Granville, Giovane CM Moura, Cristian Hesselman, Roland van Rijswijk-Deij'
       year:   2020
       title:  'BGP Anycast Tuner: Intuitive Route Management for Anycast Services' 
