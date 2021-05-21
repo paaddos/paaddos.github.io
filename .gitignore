@@ -1,4 +1,56 @@
+# Let .gitignore local
+.gitignore
 
-.DS_Store
-img/.DS_Store
+# Latex files
+*.aux
+*.glo
+*.idx
+*.log
+*.toc
+*.ist
+*.acn
+*.acr
+*.alg
+*.bbl
+*.blg
+*.tui
+*.top
+*.tmp
+*.mp
+*.dvi
+*.glg
+*.gls
+*.ilg
+*.ind
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.out
+*.synctex.gz
+
+# Mac IDE files
 *.swp
+*~
+*(Autosaved).rtfd/
+Backup[ ]of[ ]*.pages/
+Backup[ ]of[ ]*.key/
+Backup[ ]of[ ]*.numbers/
+
+# Mac finder files and hidden folders
+.DS_Store
+
+# Others
+paper.pdf
+paper.bbl
+paper.fdb_latexmk
+paper.fls
+.ipynb_checkpoints/
+*.fls
+*.nok
+
+# directories
+data_analysis/__pycache__/
+data_analysis/hilbert-chart/node_modules/
+data_analysis/bgpdump-from-bird/
