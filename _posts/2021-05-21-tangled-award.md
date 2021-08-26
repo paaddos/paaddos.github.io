@@ -1,17 +1,16 @@
 ---
 
-title:  Best Paper Awart for "TANGLED" on IM2021 Experience Sessions
+title:  Best Paper Awarded for TANGLED Testbed on IM2021 Experience Sessions
 
 ---
 
 
-### Paper accepted on CNSM 2020 [International Conference on Network and Service Management](http://www.cnsm-conf.org/2020/)
+### TANGLED paper awarded on IM 2021 Experience Session [IFIP/IEEE International Symposium on Integrated Network Management](https://im2021.ieee-im.org/call-experience-session-papers)
 
-The paper "BGP Anycast Tuner: Intuitive Route Management for Anycast Services" was accepted to be presented as a mini-paper on CNSM2020. 
+The research paper “Tangled: A Cooperative Anycast Testbed” has received the Best Experience Paper Award at the
+IM 2021 Experience Session [IFIP/IEEE International Symposium on Integrated Network Management]
 
-In this paper, we introduce a new approach to anycast management. Our solution is based on active measurements combined with traffic engineering. We propose the concept of a *BGP Cookbook* that allows operators to forecast the effects of routing policy changes over their services. We also introduce a web-based interface, called *BGP Anycast Tuner*, that allows operators to gain insight into their service's performance and provides easy management through automation. We evaluate our approach by implementing a prototype running in a testbed 
-composed of 12 anycast sites covering 5 continents. We demonstrate our tool in two different use cases: discovering and fixing a sub-optimal anycast routing issue, 
-and shifting traffic between continents, which is useful during service disruptions.
+The paper describes the “Tangled" anycast testbed that has been developed at DACS and uses a mix of crowd-sourced and cloud-based nodes to establish a global testbed for anycast experimentation. The paper was jointly written with researchers from SIDN Labs, the University of Passo Fundo and UFRGS (the latter both located in Brazil).
 
-
+![](IM_2021_Best_Experience_Paper_Award.PNG)
 
