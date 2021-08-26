@@ -1,10 +1,8 @@
 ---
 
-title:  Our paper "Tangled: A Cooperative Anycast Testbed" was accepted on IM 2021
+title:  Paper "Tangled: A Cooperative Anycast Testbed" accepted on IM 2021
 
 ---
-
-## PAADDOS: Planning Anycast for Anti-DDoS
 
 ### Paper accepted on IM 2021 Experience Session [IFIP/IEEE International Symposium on Integrated Network Management](https://im2021.ieee-im.org/call-experience-session-papers)
 
