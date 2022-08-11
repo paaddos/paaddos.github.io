@@ -1,7 +1,6 @@
 ---
 
-title:  Our paper "Anycast Agility: Network Playbooks to Fight DDoS" was
-presented on 31st USENIX Security
+title:  Our paper "Anycast Agility: Network Playbooks to Fight DDoS" was presented on 31st USENIX Security
 
 ---
 
