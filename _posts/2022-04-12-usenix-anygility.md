@@ -1,10 +1,10 @@
 ---
 
-title: Our paper "Anycast Agility: Network Playbooks to Fight DDoS" it will be presented on USENIX Security
+title: "Anycast Agility: Network Playbooks to Fight DDoS" accepted on USENIX Security
 
 ---
 
-### Paper accepted on [USENIX Securitya Simposium](https://www.usenix.org/conference/usenixsecurity22/)
+### Paper accepted on [USENIX Security Simposium](https://www.usenix.org/conference/usenixsecurity22)
 
 Our paper "Anycast Agility: Network Playbooks to Fight DDoS" it will be presented on [31st USENIX Security Simposium](https://www.usenix.org/conference/usenixsecurity22/presentation/rizvi) in 12Aug2022 in Boston/US.
 
